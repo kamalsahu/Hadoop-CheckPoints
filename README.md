@@ -1,27 +1,27 @@
-# Hadoop-CheckPoints
-Hadoop checkPoints
-1.demons in hadoop
-2.hdfs
-3.master node(name node,secondary name node,job tracker)
-4.default replication factor is 3
-5.how to change replication factor
-6.default block size is 64 mb.
-7.how to change block size
-8.why block size is so large in hdfs
-9.what is check point
-10.why check point
-11.what is edit log and fs image
-12.secondary name node is a helper node 
-13.what is single point of failure
-14.comissioning and decomissioning
-15.what is map reduce
-16.stages in map reduce
-17. hadoop installation mode(3 types)
-18. what is standalone mode
-19. what is psudo distributed mode
-20. what is full distributed mode
-21. No of reducer may not be same as number of mapper
-22. what is seek time
-23. what is safe mode
-24. how to enable/desable safe mode
-25. 
+# Hadoop-CheckPoints[solved]
+Hadoop checkPoints[solved]
+1.demons in hadoop[solved]
+2.hdfs[solved]
+3.master node(name node,secondary name node,job tracker)[solved]
+4.default replication factor is 3[solved]
+5.how to change replication factor[solved]
+6.default block size is 64 mb.[solved]
+7.how to change block size[solved]
+8.why block size is so large in hdfs[solved]
+9.what is check point[solved]
+10.why check point[solved]
+11.what is edit log and fs image[solved]
+12.secondary name node is a helper node [solved]
+13.what is single point of failure[solved]
+14.comissioning and decomissioning[solved]
+15.what is map reduce[solved]
+16.stages in map reduce[solved]
+17. hadoop installation mode(3 types)[solved]
+18. what is standalone mode[solved]
+19. what is psudo distributed mode[solved]
+20. what is full distributed mode[solved]
+21. No of reducer may not be same as number of mapper[solved]
+22. what is seek time[solved]
+23. what is safe mode[solved]
+24. how to enable/desable safe mode[solved]
+25. how to run mr program in cluster[solved]
