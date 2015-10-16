@@ -1,5 +1,5 @@
-# Hadoop-CheckPoints[solved]
-Hadoop checkPoints[solved]
+# Hadoop-CheckPoints
+Hadoop checkPoints
 1.demons in hadoop[solved]
 2.hdfs[solved]
 3.master node(name node,secondary name node,job tracker)[solved]
@@ -24,4 +24,4 @@ Hadoop checkPoints[solved]
 22. what is seek time[solved]
 23. what is safe mode[solved]
 24. how to enable/desable safe mode[solved]
-25. how to run mr program in cluster[solved]
+25. how to run mr program in cluster
