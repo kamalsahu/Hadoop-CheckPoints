@@ -1,5 +1,4 @@
 # Hadoop-CheckPoints
-Hadoop checkPoints
 1.demons in hadoop[solved]
 2.hdfs[solved]
 3.master node(name node,secondary name node,job tracker)[solved]
