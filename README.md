@@ -29,3 +29,8 @@
 28. if we dont give setjarbyClass() in driver code then we will get class not found error i mapper while running through jar
 29. how to run mr program in multi node cluster
 30. in real time how to add file to hdfs for mr program
+31. what is split
+32. what is partitioner(works in cluster)
+33. what is combiner
+34. what is cleanup()
+35. what is setup()
