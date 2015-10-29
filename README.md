@@ -24,3 +24,8 @@
 23. what is safe mode[solved]
 24. how to enable/desable safe mode[solved]
 25. how to run mr program in cluster
+26. command to run jar in hadoop i.e. hadoop jar jar_file_name class_name_with_full_path input_file  output_folder
+27. command to remove folder/file from hdfs i.e hadoop fs -rmr foldername
+28. if we dont give setjarbyClass() in driver code then we will get class not found error i mapper while running through jar
+29. how to run mr program in multi node cluster
+30. in real time how to add file to hdfs for mr program
